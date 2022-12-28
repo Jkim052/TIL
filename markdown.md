@@ -71,7 +71,7 @@ print("hello")
 |위치 변경시| 다시 지정|기준폴더 구성 달라지지 않으면 경로지정X
 |분실 가능성| 낮다 | 높다|
 |언제 사용?|타 개발자 소스 링크시|개발팀 내에서 소스 링크시|
->[참조](https://mollangpiu.tistory.com/222)
+>[출처](https://mollangpiu.tistory.com/222)
 
 
 ---
@@ -97,7 +97,7 @@ print("hello")
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
-| 안녕크       | 여보세요나야 | 거기잘지내니   |
+| 누구냐       | 여보세요나야 | 거기잘지내니   |
 
 ---
 

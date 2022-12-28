@@ -31,6 +31,9 @@
 * 분산버전관리시스템(DVCS)
 
   원격 저장소(remote repository)를 통하여 협업하고, 모든 히스토리를 만들어 클라이언트들이 공유
+  
+  ※로컬에서도 버전관리
+  
 
   ![분산](https://t1.daumcdn.net/cfile/tistory/2511743F514047D442)
 
