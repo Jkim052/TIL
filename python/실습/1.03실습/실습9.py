@@ -9,3 +9,5 @@ if number < 1 :
 else :
     for i in range(1, number, 2) :
         print(i)
+
+        
