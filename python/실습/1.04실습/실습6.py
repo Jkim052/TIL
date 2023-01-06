@@ -5,7 +5,7 @@
 # 단, max() 함수는 사용하지 마세요.
 
 
-number_list =[-1, 40, -245, 9, 20]
+number_list =[-1, -40, -245, -9, -20]
 a=0
 for L in number_list:
     if a == 0:

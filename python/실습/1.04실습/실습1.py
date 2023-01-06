@@ -4,9 +4,7 @@
 #방법1
 a = int(input())
 
-if a==0:
-    print(a)
-elif a>0:
+if a>=0:
     print(a)
 else:
     print(a*-1)
