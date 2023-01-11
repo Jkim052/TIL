@@ -1,3 +1,1 @@
-from datetime import date
-
-print(type(date.today()))
+print(3 % 3)
